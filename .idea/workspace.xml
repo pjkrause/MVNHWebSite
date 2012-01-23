@@ -30,7 +30,7 @@
       <file leaf-file-name="resources.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/resources.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="9" selection-start="2412" selection-end="2412" vertical-scroll-proportion="0.0">
+            <state line="57" column="9" selection-start="2412" selection-end="2412" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -66,25 +66,16 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="96" selection-start="578" selection-end="672" vertical-scroll-proportion="0.0">
+            <state line="14" column="96" selection-start="578" selection-end="672" vertical-scroll-proportion="17.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="birds.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="birds.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/pages/birds.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="21" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-10.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="1.2962962">
+            <state line="33" column="83" selection-start="1348" selection-end="1348" vertical-scroll-proportion="1.4224138">
               <folding />
             </state>
           </provider>
@@ -148,8 +139,8 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/fungi.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/mvnh.css" />
-        <option value="$PROJECT_DIR$/app/views/pages/birds.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/pages/birds.html.erb" />
       </list>
     </option>
   </component>
@@ -922,11 +913,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/organisations_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -954,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/resources.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="9" selection-start="2412" selection-end="2412" vertical-scroll-proportion="0.0">
+        <state line="57" column="9" selection-start="2412" selection-end="2412" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
@@ -962,13 +948,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/organisation_list/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="9" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="96" selection-start="578" selection-end="672" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -992,13 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/fungi.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="460" selection-end="555" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/mvnh.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="150" column="9" selection-start="2613" selection-end="2613" vertical-scroll-proportion="0.0">
@@ -1006,16 +978,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/birds.html.erb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-10.625">
+        <state line="35" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="1.2962962">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="1.2962962">
+        <state line="14" column="96" selection-start="578" selection-end="672" vertical-scroll-proportion="17.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/fungi.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="460" selection-end="555" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/birds.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="83" selection-start="1348" selection-end="1348" vertical-scroll-proportion="1.4224138">
           <folding />
         </state>
       </provider>
