@@ -4,12 +4,13 @@ MVNHWebSite::Application.routes.draw do
 
   # match '/home', :to => 'pages#home'
   match '/contact', :to => 'pages#contact'
+  match '/events', :to => 'pages#events'
   match '/resources', :to => 'pages#resources'
   match '/whatishere', :to => 'pages#whatishere'
   match '/birds', :to => 'pages#birds'
   match '/butterflies', :to => 'pages#butterflies'
   match '/fungi', :to => 'pages#fungi'
-  match 'plants', :to => 'pages#plants'
+  match '/plants', :to => 'pages#plants'
   match '/organisation_list', :to => 'organisation_list#index'
 
   # The priority is based upon order of creation:

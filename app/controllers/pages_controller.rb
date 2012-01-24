@@ -7,6 +7,10 @@ class PagesController < ApplicationController
     @title = "Resources"
   end
 
+  def events
+    @title = "Events"
+  end
+
   def contact
     @title = "Contact Us"
   end

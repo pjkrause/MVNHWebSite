@@ -76,6 +76,10 @@ nav li {
     border-bottom: 1px solid #ED9F9F;
 }
 
+nav li:first-child {
+    border-top: 1px solid #ED9F9F;
+}
+
 nav li a:link, nav li a:visited {
     display: block;
     padding: 12px 24px 12px 24px;
