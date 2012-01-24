@@ -155,6 +155,21 @@ img.birds {
     margin-bottom: 20px;
 }
 
+img.butterfliesLeft {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+img.butterfliesRight {
+    width: 200px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 #map_container {
     display: block;
     width: 636px;
