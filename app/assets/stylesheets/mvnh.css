@@ -38,12 +38,16 @@ header {
     padding-top: 48px;
     height: 84px;
     width: 100%;
-    background: #3BEC3B;
+    background: url(banner.png) top left no-repeat;
     text-align: center;
     font-family: 'Apple Chancery', 'Lucida Handwriting', cursive;
     font-size: 36px;
     color: #FFFFFF;
     border: 4px solid #5ED2B8;
+}
+
+header h1 {
+    display: none;
 }
 
 nav {
