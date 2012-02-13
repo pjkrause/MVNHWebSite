@@ -12,7 +12,7 @@
   <% @organisations.each do |organisation| %>
       <div class="entry">
         <% web_address = organisation.website %>
-        <h3><%= link_to_if(web_address, organisation.name, web_address, {:target => "outside_link"}) %></h3>
+        <h3><%= link_to_if(web_address, organisation.name, web_address, {:target => "_blank"}) %></h3>
 
         <p>
           <%= organisation.description %>

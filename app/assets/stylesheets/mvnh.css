@@ -163,6 +163,13 @@ img.birds {
     margin-bottom: 20px;
 }
 
+img.birdsCentre {
+    width: 300px;
+    text-align: center;
+    margin-left: 168px;
+    margin-bottom: 20px;
+}
+
 img.butterfliesLeft {
     width: 200px;
     float: left;
